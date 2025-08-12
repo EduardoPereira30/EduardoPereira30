@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">- Eu sou  de desenvolvimento de sistema no Senai.<br>- Estou em processo obsessão do certificado de desenvolvedor frot-end.</p>
+<p align="left">- Eu sou estudante de desenvolvimento de sistema no Senai.<br>- Estou em processo obsessão do certificado de desenvolvedor frot-end.</p>
 
 ###
 
